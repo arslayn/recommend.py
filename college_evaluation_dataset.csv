@@ -1,0 +1,151 @@
+College Name,Accreditation,Courses,Faculty Quality,Facilities,Reputation,Placements,State,City,Fees,Student Life,Alumni Network,Class Size,Support Services,Diversity,Global Exposure,Safety,Technology,Overall Rating
+College 1,0,9,6,8,10,7,Andhra Pradesh,Visakhapatnam,High,10,6,Small,Yes,Low,Yes,Secure,8,4
+College 2,1,8,9,5,10,9,Rajasthan,Jaipur,High,7,9,Large,Yes,Moderate,Yes,Insecure,7,10
+College 3,0,9,8,10,10,6,Rajasthan,Udaipur,High,5,9,Large,Yes,High,No,Secure,7,8
+College 4,1,10,7,6,4,9,Karnataka,Bangalore,Moderate,6,5,Large,Yes,Moderate,Yes,Secure,7,6
+College 5,0,9,7,10,9,8,Uttar Pradesh,Kanpur,Low,9,8,Large,Yes,Low,Yes,Insecure,9,6
+College 6,0,6,7,6,4,7,Kerala,Thiruvananthapuram,Moderate,10,9,Large,No,Moderate,No,Secure,10,10
+College 7,1,6,9,5,5,4,Delhi,New Delhi,Low,6,5,Medium,Yes,Moderate,No,Insecure,9,8
+College 8,1,8,10,9,7,7,Delhi,New Delhi,Low,5,9,Small,No,Moderate,No,Insecure,8,4
+College 9,0,7,6,8,6,5,Karnataka,Mysore,Moderate,6,8,Medium,Yes,Low,No,Insecure,9,5
+College 10,0,8,8,5,8,6,Kerala,Thiruvananthapuram,High,7,7,Small,Yes,High,Yes,Secure,8,7
+College 11,1,8,5,10,8,9,Karnataka,Mysore,Moderate,6,8,Large,Yes,High,Yes,Insecure,7,10
+College 12,0,6,6,5,6,7,Kerala,Thiruvananthapuram,High,9,8,Large,No,Low,Yes,Insecure,10,7
+College 13,0,8,8,10,8,6,Andhra Pradesh,Vijayawada,Moderate,10,10,Small,No,Moderate,Yes,Secure,10,4
+College 14,0,7,8,10,5,5,Gujarat,Ahmedabad,High,10,5,Medium,Yes,Moderate,No,Insecure,8,9
+College 15,1,7,10,10,9,6,Rajasthan,Udaipur,High,8,7,Large,Yes,Moderate,No,Secure,10,8
+College 16,0,6,10,6,10,4,Uttar Pradesh,Lucknow,High,10,7,Large,Yes,High,Yes,Insecure,10,5
+College 17,0,9,10,6,8,7,Kerala,Kochi,High,9,6,Large,No,Low,No,Insecure,7,5
+College 18,1,7,8,9,7,9,Uttar Pradesh,Lucknow,High,5,6,Medium,No,Moderate,No,Secure,10,6
+College 19,1,9,5,6,5,6,Delhi,New Delhi,Low,8,8,Medium,No,Moderate,No,Insecure,7,4
+College 20,1,6,10,5,9,5,Kerala,Thiruvananthapuram,Low,6,5,Large,Yes,Low,No,Secure,7,10
+College 21,0,6,7,10,9,7,Uttar Pradesh,Lucknow,High,9,9,Medium,No,High,No,Secure,6,7
+College 22,1,7,7,10,4,10,Maharashtra,Mumbai,High,8,9,Medium,No,Low,Yes,Secure,6,5
+College 23,0,6,7,5,4,10,West Bengal,Kolkata,High,7,6,Medium,Yes,Moderate,Yes,Insecure,7,6
+College 24,0,8,7,9,7,9,Gujarat,Surat,High,7,6,Medium,No,High,No,Insecure,6,6
+College 25,1,10,6,5,4,6,Rajasthan,Udaipur,Low,5,7,Medium,No,Low,No,Secure,10,6
+College 26,0,10,10,8,6,6,Rajasthan,Jaipur,Low,10,9,Large,Yes,High,No,Secure,9,4
+College 27,0,10,6,8,8,4,Rajasthan,Jaipur,High,8,6,Small,No,Moderate,No,Secure,7,7
+College 28,0,10,9,5,5,8,Delhi,New Delhi,Low,7,10,Medium,Yes,Low,Yes,Insecure,7,8
+College 29,1,8,9,9,9,5,Kerala,Thiruvananthapuram,Moderate,6,7,Small,Yes,High,Yes,Secure,9,10
+College 30,0,7,7,9,5,7,Andhra Pradesh,Visakhapatnam,High,7,7,Large,Yes,Moderate,No,Secure,6,10
+College 31,1,10,9,6,10,9,Tamil Nadu,Coimbatore,Low,8,5,Large,Yes,High,No,Secure,7,10
+College 32,1,6,9,5,9,9,Gujarat,Surat,Low,7,6,Medium,No,Low,Yes,Secure,10,7
+College 33,1,8,7,10,8,5,Tamil Nadu,Chennai,Moderate,9,9,Large,Yes,Low,Yes,Insecure,6,4
+College 34,0,10,10,9,5,9,Delhi,New Delhi,Low,10,7,Large,Yes,Moderate,Yes,Secure,6,10
+College 35,0,7,9,5,4,4,Tamil Nadu,Coimbatore,Low,6,5,Small,Yes,Low,No,Secure,6,5
+College 36,0,7,9,8,4,7,Tamil Nadu,Coimbatore,High,7,10,Large,Yes,High,No,Insecure,9,5
+College 37,1,6,6,10,7,5,West Bengal,Kolkata,Low,8,10,Large,No,Moderate,No,Secure,6,7
+College 38,1,7,5,10,4,7,West Bengal,Kolkata,Low,7,8,Medium,Yes,High,Yes,Secure,9,5
+College 39,1,9,10,5,4,10,Rajasthan,Udaipur,High,5,6,Large,Yes,Moderate,Yes,Insecure,7,8
+College 40,0,7,10,7,5,9,Kerala,Thiruvananthapuram,Moderate,8,6,Small,Yes,High,No,Insecure,9,7
+College 41,1,8,10,8,4,10,Karnataka,Mysore,High,10,8,Medium,No,Low,Yes,Secure,7,4
+College 42,1,7,8,6,7,4,Gujarat,Ahmedabad,Moderate,8,6,Medium,No,Moderate,Yes,Secure,10,4
+College 43,1,8,6,9,5,10,Uttar Pradesh,Lucknow,Moderate,8,8,Small,Yes,Moderate,No,Insecure,8,9
+College 44,1,9,9,5,5,9,Gujarat,Ahmedabad,High,5,5,Small,Yes,High,No,Secure,7,9
+College 45,1,8,7,7,4,7,Gujarat,Ahmedabad,High,7,7,Small,Yes,High,Yes,Insecure,7,5
+College 46,0,7,6,8,7,7,Maharashtra,Mumbai,High,10,7,Large,No,Low,No,Insecure,10,6
+College 47,1,6,5,8,10,5,Maharashtra,Nagpur,High,10,7,Large,Yes,Low,No,Insecure,9,9
+College 48,1,10,7,9,4,6,West Bengal,Kolkata,Low,9,7,Large,No,High,Yes,Secure,7,6
+College 49,1,9,9,8,9,7,Tamil Nadu,Chennai,Low,10,6,Large,No,Low,No,Insecure,8,9
+College 50,0,10,7,5,10,5,West Bengal,Kolkata,Low,7,7,Small,Yes,Moderate,Yes,Secure,6,7
+College 51,0,10,10,8,6,4,Maharashtra,Pune,High,9,9,Medium,No,Moderate,Yes,Insecure,8,10
+College 52,0,8,9,10,7,8,Maharashtra,Mumbai,Moderate,7,10,Large,No,Moderate,No,Secure,8,10
+College 53,0,7,10,8,5,10,West Bengal,Kolkata,High,7,7,Large,Yes,High,Yes,Insecure,10,8
+College 54,1,10,7,8,7,10,Karnataka,Bangalore,Moderate,9,7,Large,No,Moderate,Yes,Insecure,7,6
+College 55,0,7,10,8,9,4,West Bengal,Kolkata,High,9,8,Small,Yes,High,Yes,Insecure,10,4
+College 56,1,7,5,5,10,4,Delhi,New Delhi,Low,7,8,Large,No,High,Yes,Insecure,10,4
+College 57,1,9,6,10,4,10,West Bengal,Kolkata,Low,6,10,Medium,No,High,Yes,Secure,6,6
+College 58,1,6,10,8,10,4,Gujarat,Ahmedabad,High,8,8,Large,Yes,Moderate,Yes,Secure,7,5
+College 59,0,9,7,5,9,8,West Bengal,Kolkata,High,9,8,Medium,No,Moderate,Yes,Secure,8,8
+College 60,0,9,7,6,7,9,Andhra Pradesh,Vijayawada,Moderate,9,10,Small,Yes,Moderate,Yes,Insecure,9,7
+College 61,1,6,7,5,8,9,Delhi,New Delhi,Low,9,7,Medium,Yes,High,No,Secure,7,4
+College 62,1,6,7,9,7,5,Karnataka,Bangalore,Low,7,5,Medium,No,Low,No,Secure,8,6
+College 63,1,7,5,8,8,10,Kerala,Thiruvananthapuram,Low,8,5,Small,No,Low,Yes,Insecure,6,10
+College 64,0,7,10,7,4,6,Rajasthan,Jaipur,Moderate,5,8,Medium,No,High,No,Secure,10,10
+College 65,0,7,5,7,8,10,Tamil Nadu,Chennai,Low,7,8,Small,Yes,Low,Yes,Secure,6,5
+College 66,0,6,7,6,5,8,Gujarat,Surat,High,6,8,Medium,Yes,Moderate,No,Insecure,7,5
+College 67,0,9,8,9,7,6,West Bengal,Kolkata,Low,6,6,Small,No,High,No,Secure,10,8
+College 68,1,9,6,5,9,7,Karnataka,Mysore,Moderate,9,9,Small,Yes,Moderate,Yes,Secure,7,8
+College 69,0,9,7,8,7,6,Delhi,New Delhi,High,9,5,Small,Yes,Moderate,No,Secure,6,10
+College 70,1,10,9,6,4,6,Rajasthan,Udaipur,Moderate,9,8,Large,No,High,No,Secure,6,8
+College 71,1,10,6,8,9,5,Gujarat,Surat,Moderate,6,10,Medium,Yes,Moderate,Yes,Insecure,8,5
+College 72,0,9,9,8,5,9,Rajasthan,Jaipur,Moderate,6,8,Small,No,Low,No,Insecure,6,9
+College 73,1,7,10,9,6,5,Karnataka,Bangalore,Moderate,7,9,Small,Yes,Low,No,Secure,8,7
+College 74,1,7,8,5,9,7,Uttar Pradesh,Lucknow,High,10,5,Large,Yes,High,Yes,Insecure,7,5
+College 75,1,6,8,9,5,7,Rajasthan,Udaipur,Moderate,5,9,Small,Yes,High,Yes,Insecure,7,4
+College 76,0,9,7,8,5,10,Tamil Nadu,Coimbatore,Moderate,7,6,Medium,No,High,Yes,Secure,9,10
+College 77,0,7,5,6,10,10,Gujarat,Surat,High,7,8,Large,No,High,No,Secure,7,9
+College 78,1,6,10,10,10,8,Delhi,New Delhi,Moderate,10,8,Large,No,Low,Yes,Secure,6,9
+College 79,0,7,10,8,4,10,Andhra Pradesh,Visakhapatnam,Moderate,9,6,Medium,No,Moderate,Yes,Insecure,10,8
+College 80,1,7,10,5,7,8,Andhra Pradesh,Visakhapatnam,Low,7,8,Large,No,Low,No,Secure,6,9
+College 81,1,9,5,5,5,6,Kerala,Kochi,High,9,9,Large,No,Low,No,Secure,6,8
+College 82,1,7,9,8,6,9,Gujarat,Ahmedabad,High,6,5,Medium,No,High,Yes,Insecure,9,7
+College 83,0,8,9,7,5,9,Karnataka,Mysore,High,10,8,Small,No,Low,Yes,Insecure,6,4
+College 84,0,6,10,7,7,6,Karnataka,Mysore,High,5,10,Medium,No,High,No,Secure,10,4
+College 85,0,10,8,9,6,6,Uttar Pradesh,Kanpur,Low,10,5,Large,Yes,High,No,Secure,8,8
+College 86,1,6,5,7,7,6,Delhi,New Delhi,Low,9,7,Large,No,Moderate,No,Secure,6,7
+College 87,0,6,10,6,6,8,West Bengal,Kolkata,Moderate,8,8,Large,Yes,Moderate,No,Insecure,10,7
+College 88,1,8,10,6,7,4,Kerala,Kochi,High,8,9,Medium,Yes,Low,No,Secure,8,5
+College 89,1,9,7,5,9,9,Andhra Pradesh,Visakhapatnam,Moderate,9,9,Small,No,Low,No,Insecure,9,4
+College 90,0,8,9,5,5,8,Karnataka,Bangalore,Low,10,8,Small,No,Moderate,No,Secure,8,5
+College 91,1,8,7,7,8,6,Gujarat,Surat,Low,5,10,Large,Yes,Moderate,No,Insecure,8,5
+College 92,0,7,10,8,5,8,Gujarat,Ahmedabad,High,10,5,Small,No,High,No,Secure,10,10
+College 93,1,10,7,6,4,6,Uttar Pradesh,Lucknow,Low,5,9,Small,No,High,No,Secure,7,4
+College 94,0,7,8,5,5,6,Karnataka,Bangalore,Low,7,5,Large,Yes,Low,No,Insecure,8,6
+College 95,1,9,7,10,6,7,Karnataka,Bangalore,Moderate,5,5,Small,No,Moderate,No,Insecure,7,8
+College 96,1,10,8,10,7,4,Delhi,New Delhi,Moderate,5,7,Large,No,Low,No,Insecure,9,5
+College 97,0,10,6,9,4,10,Kerala,Kochi,High,9,7,Large,Yes,High,Yes,Insecure,7,5
+College 98,0,6,9,10,4,5,Tamil Nadu,Chennai,Low,8,7,Medium,Yes,High,No,Insecure,8,9
+College 99,0,8,10,10,5,9,Delhi,New Delhi,Low,8,8,Large,Yes,Moderate,No,Secure,8,5
+College 100,1,9,5,5,7,7,Kerala,Thiruvananthapuram,Low,5,8,Medium,No,Low,No,Insecure,10,4
+College 101,0,8,7,7,4,9,Gujarat,Ahmedabad,High,6,6,Small,Yes,Moderate,No,Insecure,8,8
+College 102,1,6,7,9,7,7,Tamil Nadu,Chennai,Low,7,7,Small,Yes,Low,No,Secure,7,9
+College 103,0,10,9,9,6,9,Gujarat,Ahmedabad,High,5,6,Large,Yes,Low,Yes,Secure,6,6
+College 104,0,7,9,5,10,5,Rajasthan,Jaipur,Moderate,6,9,Large,No,Low,No,Insecure,8,5
+College 105,1,7,8,5,5,9,Kerala,Thiruvananthapuram,Low,5,7,Large,Yes,High,Yes,Insecure,8,9
+College 106,0,6,6,8,6,8,Gujarat,Surat,High,10,5,Medium,Yes,Low,Yes,Insecure,10,4
+College 107,0,6,10,8,8,10,Maharashtra,Mumbai,High,9,9,Medium,No,Low,No,Secure,8,8
+College 108,0,8,10,6,10,6,Uttar Pradesh,Lucknow,Low,8,7,Small,Yes,High,Yes,Insecure,9,4
+College 109,0,10,8,10,6,7,Andhra Pradesh,Vijayawada,High,8,9,Small,No,Low,Yes,Secure,8,9
+College 110,0,8,8,8,5,4,Tamil Nadu,Chennai,Low,9,9,Large,No,High,No,Insecure,7,6
+College 111,0,9,5,10,4,7,West Bengal,Kolkata,Low,9,6,Small,Yes,Moderate,No,Insecure,6,7
+College 112,0,6,10,6,8,5,Delhi,New Delhi,Low,8,10,Medium,No,High,Yes,Secure,8,5
+College 113,0,9,8,6,8,8,Rajasthan,Udaipur,Moderate,10,5,Small,No,Moderate,Yes,Secure,10,9
+College 114,1,7,5,9,8,9,Kerala,Thiruvananthapuram,Low,7,6,Medium,No,Moderate,No,Insecure,7,8
+College 115,1,9,8,10,9,8,West Bengal,Kolkata,High,5,9,Medium,No,Low,Yes,Insecure,7,10
+College 116,1,9,10,8,7,8,Karnataka,Bangalore,Low,5,8,Medium,Yes,Low,Yes,Insecure,7,5
+College 117,0,7,9,9,6,6,West Bengal,Kolkata,High,9,8,Small,Yes,Moderate,Yes,Insecure,8,6
+College 118,1,10,5,8,10,9,Gujarat,Surat,Low,9,10,Small,Yes,Moderate,No,Insecure,10,9
+College 119,0,9,8,10,6,4,West Bengal,Kolkata,Moderate,9,8,Medium,Yes,Moderate,No,Insecure,6,4
+College 120,0,8,8,6,6,8,Delhi,New Delhi,High,8,6,Small,No,Moderate,No,Secure,6,5
+College 121,1,8,8,6,7,10,Gujarat,Ahmedabad,High,5,8,Medium,Yes,High,No,Secure,9,6
+College 122,1,8,10,10,9,6,Tamil Nadu,Coimbatore,High,6,10,Large,Yes,Moderate,Yes,Insecure,10,8
+College 123,1,7,8,5,9,9,Maharashtra,Nagpur,Moderate,10,10,Small,No,Moderate,No,Insecure,9,8
+College 124,1,9,9,6,10,6,Delhi,New Delhi,Moderate,5,7,Medium,Yes,Moderate,Yes,Insecure,10,6
+College 125,1,8,5,7,10,4,Karnataka,Bangalore,High,5,10,Medium,Yes,Low,No,Insecure,9,7
+College 126,0,6,5,10,10,5,Kerala,Thiruvananthapuram,High,5,7,Small,Yes,Moderate,No,Insecure,8,6
+College 127,0,9,7,8,5,5,Karnataka,Mysore,Moderate,5,6,Small,No,High,Yes,Insecure,8,4
+College 128,0,7,7,7,5,8,Uttar Pradesh,Kanpur,High,5,7,Medium,No,Moderate,Yes,Insecure,7,6
+College 129,0,7,8,9,5,8,Maharashtra,Pune,High,8,5,Large,Yes,High,Yes,Secure,10,10
+College 130,1,10,6,5,6,8,Karnataka,Bangalore,High,9,10,Small,No,Low,Yes,Insecure,9,9
+College 131,0,10,9,10,8,6,Uttar Pradesh,Kanpur,Moderate,7,10,Large,Yes,Low,No,Secure,6,4
+College 132,0,6,7,10,8,8,West Bengal,Kolkata,High,5,7,Small,Yes,Moderate,No,Insecure,10,5
+College 133,0,8,7,5,7,5,Gujarat,Surat,High,10,9,Small,Yes,Moderate,Yes,Secure,7,9
+College 134,1,7,9,9,4,6,Maharashtra,Mumbai,Low,8,7,Large,No,Low,Yes,Insecure,8,5
+College 135,1,9,7,7,5,9,Karnataka,Mysore,Moderate,7,8,Small,No,Moderate,Yes,Secure,9,6
+College 136,1,8,5,6,7,5,Kerala,Thiruvananthapuram,Moderate,5,10,Small,Yes,Moderate,Yes,Secure,9,4
+College 137,1,7,9,6,4,6,West Bengal,Kolkata,High,5,6,Medium,No,High,No,Insecure,8,5
+College 138,1,8,5,8,6,7,West Bengal,Kolkata,Moderate,8,10,Large,Yes,Moderate,Yes,Insecure,7,6
+College 139,1,8,5,5,5,8,Rajasthan,Jaipur,High,9,9,Large,Yes,Low,Yes,Secure,9,4
+College 140,0,6,10,7,10,5,Kerala,Thiruvananthapuram,Low,9,9,Small,No,High,Yes,Secure,10,7
+College 141,1,7,8,6,4,7,Karnataka,Bangalore,High,8,10,Large,No,High,Yes,Insecure,10,5
+College 142,0,6,6,10,5,5,Delhi,New Delhi,Low,7,10,Medium,Yes,Moderate,Yes,Insecure,6,9
+College 143,0,8,8,9,10,4,Maharashtra,Pune,Moderate,9,8,Medium,No,Moderate,Yes,Insecure,10,5
+College 144,1,10,8,6,6,4,Uttar Pradesh,Lucknow,High,6,5,Small,Yes,High,No,Insecure,8,8
+College 145,1,10,8,7,5,9,Uttar Pradesh,Lucknow,High,8,8,Medium,No,Low,No,Insecure,9,5
+College 146,1,9,10,10,10,8,Karnataka,Mysore,High,7,6,Large,No,Moderate,No,Insecure,10,7
+College 147,1,6,9,9,10,8,Karnataka,Mysore,Moderate,8,9,Large,No,High,No,Secure,6,10
+College 148,1,8,6,8,9,8,Kerala,Kochi,Moderate,8,5,Small,Yes,Low,No,Insecure,8,4
+College 149,0,6,7,5,6,8,Uttar Pradesh,Lucknow,High,7,5,Medium,Yes,Moderate,Yes,Insecure,10,8
+College 150,0,8,7,9,4,10,Karnataka,Bangalore,High,5,8,Large,No,Low,No,Insecure,8,4

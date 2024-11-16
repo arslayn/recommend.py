@@ -1,0 +1,151 @@
+college_name,field_of_study,average_grade,location
+Indian School of Business,Arts,82,Mumbai
+Vellore Institute of Technology,Design,81,Visakhapatnam
+Panjab University,Medicine,95,Chandigarh
+University of Calcutta,Engineering,88,Mumbai
+Panjab University,Commerce,77,Hyderabad
+Loyola College,Law,76,Nagpur
+Indian School of Business,Science,71,Patna
+Manipal University,Science,82,Hyderabad
+Indian Institute of Management,Engineering,87,Vadodara
+Birla Institute of Technology,Medicine,75,Surat
+Tata Institute of Social Sciences,Medicine,86,Chandigarh
+St. Xavier's College,Arts,71,Bhopal
+National Institute of Fashion Technology,Medicine,92,Lucknow
+St. Xavier's College,Commerce,95,Lucknow
+Indian Institute of Science,Medicine,81,Ahmedabad
+Indian Institute of Science,Design,72,Ranchi
+Birla Institute of Technology,Arts,87,Kolkata
+Indian Institute of Management,Science,95,Jaipur
+Tata Institute of Social Sciences,Law,78,Bangalore
+Birla Institute of Technology,Social Science,85,Pune
+Loyola College,Science,94,Lucknow
+Anna University,Social Science,84,Lucknow
+St. Xavier's College,Hospitality,89,Surat
+Manipal University,Arts,77,Bangalore
+Indian Institute of Science,Engineering,80,Kolkata
+Jawaharlal Nehru University,Arts,91,Vadodara
+Indian Institute of Technology,Design,78,New Delhi
+Symbiosis International University,Design,89,Lucknow
+Jawaharlal Nehru University,Medicine,90,Kolkata
+Manipal University,Science,73,Vadodara
+Indian Institute of Technology,Hospitality,83,Lucknow
+Panjab University,Hospitality,70,Surat
+Indian Institute of Technology,Science,78,New Delhi
+Panjab University,Hospitality,92,Indore
+Indian Institute of Science,Social Science,88,New Delhi
+Jamia Millia Islamia,Arts,90,Bangalore
+Tata Institute of Social Sciences,Engineering,72,Mumbai
+Indian Institute of Management,Engineering,95,Surat
+Banaras Hindu University,Management,95,Bhopal
+University of Delhi,Social Science,78,Chandigarh
+Jawaharlal Nehru University,Arts,76,Hyderabad
+National Institute of Fashion Technology,Design,70,Lucknow
+University of Delhi,Medicine,78,Chandigarh
+Vellore Institute of Technology,Law,71,Chennai
+Tata Institute of Social Sciences,Social Science,86,Ranchi
+University of Delhi,Medicine,75,Nagpur
+University of Mumbai,Arts,91,Patna
+University of Calcutta,Design,75,Chennai
+Indian Institute of Science,Commerce,71,Jaipur
+Panjab University,Management,93,Visakhapatnam
+Tata Institute of Social Sciences,Hospitality,77,Bhopal
+Manipal University,Design,94,New Delhi
+Jamia Millia Islamia,Social Science,84,Hyderabad
+Symbiosis International University,Engineering,81,Bhopal
+University of Mumbai,Law,87,Nagpur
+Jamia Millia Islamia,Medicine,74,Vadodara
+Jawaharlal Nehru University,Arts,81,Visakhapatnam
+Indian School of Business,Management,89,Indore
+Birla Institute of Technology,Science,76,Indore
+Vellore Institute of Technology,Science,83,Chandigarh
+Vellore Institute of Technology,Social Science,95,Ahmedabad
+Jamia Millia Islamia,Social Science,74,Ahmedabad
+Vellore Institute of Technology,Design,74,Lucknow
+Indian Institute of Management,Hospitality,79,Bangalore
+Indian Institute of Science,Hospitality,77,Pune
+Anna University,Commerce,90,Indore
+Indian Institute of Management,Medicine,94,Bangalore
+Indian Institute of Science,Design,71,New Delhi
+Birla Institute of Technology,Engineering,75,Bangalore
+Vellore Institute of Technology,Social Science,82,Chennai
+Panjab University,Science,86,Lucknow
+University of Calcutta,Science,82,Bangalore
+St. Xavier's College,Law,89,Lucknow
+St. Xavier's College,Commerce,80,Surat
+Jawaharlal Nehru University,Science,76,Indore
+Panjab University,Medicine,87,Bhopal
+Anna University,Engineering,72,Bhopal
+St. Xavier's College,Engineering,80,Vadodara
+Jamia Millia Islamia,Law,86,Nagpur
+Loyola College,Hospitality,91,Hyderabad
+Indian School of Business,Social Science,79,Surat
+Jamia Millia Islamia,Law,74,Bangalore
+Anna University,Social Science,77,Bhopal
+St. Xavier's College,Science,76,Surat
+Indian Institute of Science,Hospitality,75,Mumbai
+Indian Institute of Management,Hospitality,72,Lucknow
+Jawaharlal Nehru University,Hospitality,77,Patna
+Indian School of Business,Management,75,Chandigarh
+Indian Institute of Science,Management,78,Bhopal
+Vellore Institute of Technology,Medicine,93,Bhopal
+Indian Institute of Science,Law,71,Pune
+Panjab University,Science,94,Hyderabad
+Indian Institute of Science,Commerce,94,Indore
+Indian School of Business,Law,86,Jaipur
+Indian Institute of Science,Social Science,73,Bangalore
+St. Xavier's College,Design,72,Bangalore
+Indian School of Business,Design,90,Surat
+Panjab University,Law,86,New Delhi
+St. Xavier's College,Arts,79,Nagpur
+National Institute of Fashion Technology,Engineering,83,Hyderabad
+Tata Institute of Social Sciences,Law,87,Coimbatore
+Indian Institute of Management,Social Science,83,Bangalore
+Banaras Hindu University,Science,83,New Delhi
+Loyola College,Science,76,Bhopal
+Jamia Millia Islamia,Engineering,76,Surat
+Tata Institute of Social Sciences,Medicine,80,Nagpur
+Jamia Millia Islamia,Hospitality,83,New Delhi
+Jawaharlal Nehru University,Medicine,73,Chandigarh
+Indian School of Business,Social Science,73,Visakhapatnam
+University of Calcutta,Management,76,Mumbai
+Indian Institute of Technology,Law,83,Chennai
+Anna University,Engineering,89,Nagpur
+Jawaharlal Nehru University,Design,74,Ahmedabad
+National Institute of Fashion Technology,Social Science,73,Pune
+Indian School of Business,Social Science,71,Bhopal
+Indian Institute of Science,Management,78,Hyderabad
+Jawaharlal Nehru University,Arts,70,Surat
+Manipal University,Design,76,Patna
+Indian Institute of Technology,Law,93,Hyderabad
+Banaras Hindu University,Science,90,New Delhi
+Symbiosis International University,Engineering,82,Lucknow
+Panjab University,Social Science,79,Chandigarh
+Loyola College,Arts,82,Chennai
+Banaras Hindu University,Arts,93,New Delhi
+Birla Institute of Technology,Commerce,77,Bhopal
+University of Calcutta,Hospitality,75,Nagpur
+Indian Institute of Science,Medicine,76,Surat
+Indian Institute of Technology,Commerce,93,Bangalore
+Loyola College,Management,77,Chennai
+Indian Institute of Technology,Medicine,84,Bhopal
+Jawaharlal Nehru University,Law,95,Mumbai
+Jamia Millia Islamia,Management,76,Ranchi
+Indian School of Business,Social Science,84,Mumbai
+St. Xavier's College,Design,74,Mumbai
+University of Mumbai,Hospitality,93,Vadodara
+University of Calcutta,Engineering,85,Jaipur
+Vellore Institute of Technology,Commerce,86,Mumbai
+Jawaharlal Nehru University,Design,72,Chandigarh
+Indian Institute of Technology,Law,79,Ahmedabad
+Banaras Hindu University,Medicine,94,Ahmedabad
+Vellore Institute of Technology,Science,82,Ranchi
+Indian Institute of Management,Law,81,Chandigarh
+University of Calcutta,Management,89,Surat
+Banaras Hindu University,Science,70,Bangalore
+Loyola College,Science,77,Ranchi
+National Institute of Fashion Technology,Social Science,87,Bangalore
+Indian Institute of Technology,Commerce,79,Pune
+National Institute of Fashion Technology,Medicine,82,Ranchi
+Panjab University,Hospitality,88,Mumbai
+Vellore Institute of Technology,Hospitality,85,Ahmedabad
